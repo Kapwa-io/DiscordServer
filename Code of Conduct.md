@@ -39,7 +39,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## **Enforcement**
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement in the [Discord](https://discord.gg/SFKZwd845E) by typing `-report in #cmd`. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement in the [Discord](https://discord.gg/SFKZwd845E) by typing `-report in #cmd` or for private concerns, `-ticket open <reason> -adminonly`. All complaints will be reviewed and investigated promptly and fairly.
 
 To flag a message, react on the message with :report: emoji.  
 To delete a message(without mod or admin), a message must accumulate atleast 5 ❌ reactions from community members.
